@@ -1,0 +1,57 @@
+body {
+     position: sticky;
+    top: 0px;
+    z-index: 9999;
+     background-color: black;
+     background-image: Cherry.png;
+    font-family: Arial, sans-serif; color: rgb(255, 53, 154);
+    margin: 0;
+}
+
+/* Menu */
+nav {
+    background-color: black;
+    padding: 10px;
+}
+
+nav a {
+    color: rgb(255, 56, 199);
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: rgb(255, 56, 199);
+}
+
+/* Header */
+header {
+    background-color: rgb(255, 56, 199);
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(255, 56, 199);
+    text-align: center;
+    padding: 10px;
+}
+
+
+.mustangImg {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*
+h1 {
+    color: red;
+}
