@@ -2,8 +2,8 @@ body {
      position: sticky;
     top: 0px;
     z-index: 9999;
-     
-     background-image: url("Cherry.png");
+     backgroud-color: black;
+
     font-family: Arial, sans-serif; color: white;
     margin: 0;
 }
