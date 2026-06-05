@@ -3,7 +3,7 @@ body {
     top: 0px;
     z-index: 9999;
      background-color: black;
-
+     background-image: <img src="clove%20background.jpg"/>
     font-family: Arial, sans-serif; color: white;
     margin: 0;
 }
